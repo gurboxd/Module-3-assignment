@@ -1,0 +1,17 @@
+
+p {
+    background-color: aqua;
+    color: blueviolet;
+}
+strong {
+    color: brown;
+}
+
+strong:hover {
+    background-color: yellow;
+}
+
+.names {
+    font-family: 'Sans Serif';
+    font-size: larger;
+}
